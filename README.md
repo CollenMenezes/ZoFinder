@@ -17,7 +17,8 @@ Open your terminal, and execute the following commands: <br>
 ```bash
 git clone https://github.com/CollenMenezes/ZoFinder.git
 cd ZoFinder
-bash ZoFinder.sh
+chmod +x ZoFinder.sh
+./ZoFinder.sh
 ```
 
 # Credits
