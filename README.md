@@ -1,4 +1,5 @@
 ![](https://files.catbox.moe/xa7cp3.gif)
+![](https://files.catbox.moe/xe2kzc.svg)
 
 # Description 📑
 **ZoFinder** It's a fun tool that lets you discover your zodiac sign according to your birth. It was created with the intention of putting into practice what I've been learning with **BASH**.<br>
